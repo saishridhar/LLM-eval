@@ -1,0 +1,9 @@
+evaluate 
+requests 
+scikit-learn 
+bert_score
+tqdm
+numpy
+torch
+tensorflow
+git+https://github.com/google-research/bleurt.git 
